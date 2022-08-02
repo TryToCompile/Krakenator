@@ -1,2 +1,1 @@
 # Krakenator
-hehe, Kraken!
