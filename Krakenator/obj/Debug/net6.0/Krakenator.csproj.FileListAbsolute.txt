@@ -1,0 +1,15 @@
+D:\c#\Krakenator\Krakenator\bin\Debug\net6.0\Krakenator.exe
+D:\c#\Krakenator\Krakenator\bin\Debug\net6.0\Krakenator.deps.json
+D:\c#\Krakenator\Krakenator\bin\Debug\net6.0\Krakenator.runtimeconfig.json
+D:\c#\Krakenator\Krakenator\bin\Debug\net6.0\Krakenator.dll
+D:\c#\Krakenator\Krakenator\bin\Debug\net6.0\Krakenator.pdb
+D:\c#\Krakenator\Krakenator\obj\Debug\net6.0\Krakenator.csproj.AssemblyReference.cache
+D:\c#\Krakenator\Krakenator\obj\Debug\net6.0\Krakenator.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Krakenator\Krakenator\obj\Debug\net6.0\Krakenator.AssemblyInfoInputs.cache
+D:\c#\Krakenator\Krakenator\obj\Debug\net6.0\Krakenator.AssemblyInfo.cs
+D:\c#\Krakenator\Krakenator\obj\Debug\net6.0\Krakenator.csproj.CoreCompileInputs.cache
+D:\c#\Krakenator\Krakenator\obj\Debug\net6.0\Krakenator.dll
+D:\c#\Krakenator\Krakenator\obj\Debug\net6.0\refint\Krakenator.dll
+D:\c#\Krakenator\Krakenator\obj\Debug\net6.0\Krakenator.pdb
+D:\c#\Krakenator\Krakenator\obj\Debug\net6.0\Krakenator.genruntimeconfig.cache
+D:\c#\Krakenator\Krakenator\obj\Debug\net6.0\ref\Krakenator.dll
