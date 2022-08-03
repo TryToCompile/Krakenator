@@ -5,18 +5,23 @@ Creature NPC = new Creature();
 NPC.Name = "NPC";
 NPC.PrintStatus();
 
-Creature Adam = new Player();
-Adam.Name = "Adam";
-Adam.PrintStatus();
-
+Enemy rat = new Enemy();
+rat.Name = "Rat";
+rat.PrintStatus();
 
 Player Niko = new Player();
 Niko.Name = "Niko";
 Niko.PrintStatus();
-Niko.Attack();
+Niko.Attack(rat);
+
+
+
+
+
+
 class Creature
 {
-    private string _name;
+    private string _name = "undefined";
     public string Name { 
         get {
             return _name;
@@ -31,7 +36,9 @@ class Creature
         } 
     }
     private double _hp;
-    public double HP { get; set; }
+    public double HP { get; set; } = 100;
+    private double attack;
+    public double Attack { get; set; } = 10;
     
     public void PrintStatus()
     {
@@ -47,9 +54,23 @@ class Player : Creature
         WriteLine($"I'm Player!");
     }
 
-    public void Attack()
+    public void Attack(Enemy enemy)
     {
         WriteLine("ATTAAACK!");
+
+    }
+}
+
+class Enemy : Creature
+{
+    public new void PrintStatus()
+    {
+        WriteLine($"I'm Enemy!");
+    }
+
+    public void Attack(Player player)
+    {
+        WriteLine("Attack");
     }
 }
 
